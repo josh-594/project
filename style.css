@@ -1,20 +1,20 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: Impact, Impact;
-  margin: 2em;
-  color: Navy;
- font size: 2em
+  font-family: Impact;
+/*   margin: 2em; */
+  color: navy;
+ font size: 2em;
   font-style: bold;
 }
 
 h1 {
   font-style: bold;
-  color: Navy;
+  color: navy;
 }
 h2 {
   font-style: bold;
-  color: Navy;
+  color: navy;
 }
 
 .center-image {
@@ -25,4 +25,9 @@ h2 {
 
 .center-text {
   text-align: center;
+}
+
+/*     <div class="jumbotron text-center"> */
+.jumbotron {
+  
 }
