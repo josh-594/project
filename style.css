@@ -1,14 +1,14 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: Impact;
 /*   margin: 2em; */
-  color: navy;
+  color: black;
  font size: 2em;
   font-style: bold;
 }
 
 h1 {
+  font-family: Impact;
   font-style: bold;
   color: navy;
 }
@@ -29,5 +29,18 @@ h2 {
 
 /*     <div class="jumbotron text-center"> */
 .jumbotron {
-  
+    background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(https://cdn.glitch.com/9fcdea82-c707-41a7-9436-46cfe7bef5cf%2F2C6402EC-0640-499F-99FF-816287C2F181.jpeg?v=1597869085961);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: transparent;
+  color: #fff;
+}
+.jumbotron h1 {
+  color: #fff;
 }
