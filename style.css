@@ -44,3 +44,6 @@ h2 {
 .jumbotron h1 {
   color: #fff;
 }
+.welcome {
+  height: 50vh;
+}
