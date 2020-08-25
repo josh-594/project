@@ -22,6 +22,10 @@ h3 {
   color: navy;
 }
 
+p {
+  font-style:bold;
+}
+
 .center-image {
   display: block;
   margin-left: auto;
