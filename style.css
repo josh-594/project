@@ -8,7 +8,6 @@ body {
   background-color: grey;
 }
 
-
 h1 {
   font-family: Impact;
   font-style: bold;
@@ -26,7 +25,7 @@ h3 {
   font-style: bold;
   font-family: Impact;
   color: navy;
- font-size: 2.5em; 
+  font-size: 2.5em;
 }
 
 p {
@@ -34,7 +33,6 @@ p {
   font-size: 1.75em;
   font-style: italic;
   font-style: bold;
-  
 }
 
 li {
@@ -42,7 +40,6 @@ li {
   font-size: 1.25em;
   margin: 0.4em;
 }
-
 
 .center-image {
   display: block;
