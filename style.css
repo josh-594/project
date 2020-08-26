@@ -13,7 +13,7 @@ h1 {
   font-family: Impact;
   font-style: bold;
   color: white;
-  font-size: 5em;
+  font-size: 3.5em;
 }
 h2 {
   font-family: Impact;
@@ -30,9 +30,13 @@ h3 {
 
 p {
   font-family: Geneva;
-  
+  font-size: 1.25em;
 }
 
+li {
+  font-family: Geneva;
+  font-size: 1.5
+}
 
 .center-image {
   display: block;
