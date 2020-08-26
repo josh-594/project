@@ -2,34 +2,33 @@
 
 body {
   /*   margin: 2em; */
-  color: black;
+  color: navy;
   fontsize: 2em;
   font-style: bold;
+  background-color: grey;
 }
+
 
 h1 {
   font-family: Impact;
   font-style: bold;
-  color: navy;
+  color: white;
 }
 h2 {
   font-family: Impact;
   font-style: bold;
-  color: navy;
+  color: white;
 }
 
 h3 {
   font-style: bold;
-  color: navy;
+  color: white;
 }
 
 p {
   font-style: bold;
 }
 
-li {
-  
-}
 
 .center-image {
   display: block;
