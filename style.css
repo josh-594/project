@@ -1,5 +1,5 @@
 /* Font Awesome - Icons 
-  https://fontawesome.com/
+https://fontawesome.com/icons?d=gallery
 */
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css");
 
@@ -34,7 +34,7 @@ h3 {
 }
 
 p {
-/*   font-family: impact; */
+  /*   font-family: impact; */
   font-size: 1.75em;
   font-style: italic;
   font-style: bold;
