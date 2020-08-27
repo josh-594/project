@@ -1,20 +1,49 @@
+/* Font Awesome - Icons 
+https://fontawesome.com/icons?d=gallery
+*/
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css");
+
 /* CSS files add styling rules to your content */
 
 body {
   /*   margin: 2em; */
-  color: black;
+  color: white;
   fontsize: 2em;
   font-style: bold;
+  background-color: grey;
 }
 
 h1 {
   font-family: Impact;
   font-style: bold;
   color: navy;
+  font-size: 3.5em;
 }
 h2 {
+  font-family: Impact;
   font-style: bold;
   color: navy;
+  font-size: 2.5em;
+}
+
+h3 {
+  font-style: bold;
+  font-family: Impact;
+  color: navy;
+  font-size: 2.5em;
+}
+
+p {
+  /*   font-family: impact; */
+  font-size: 1.75em;
+  font-style: italic;
+  font-style: bold;
+}
+
+li {
+  font-family: Geneva;
+  font-size: 1.25em;
+  margin: 0.4em;
 }
 
 .center-image {
@@ -46,8 +75,14 @@ h2 {
 }
 .welcome {
   height: 50vh;
-  min-height: 300px;
-/*   display: flex;
+  min-height: 400px;
+
+  /*   display: flex;
   justify-content: center;
   flex-direction: column; */
+}
+
+h5 {
+  color: navy;
+  font-size: 2em;
 }
